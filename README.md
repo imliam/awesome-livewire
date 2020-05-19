@@ -22,6 +22,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Official Resources
 
 * [Livewire Website](https://laravel-livewire.com/)
+* [Livewire Forum](https://forum.laravel-livewire.com/)
 * [Livewire GitHub](https://github.com/livewire/livewire)
 * [Livewire Twitter](https://twitter.com/LaravelLivewire)
 
