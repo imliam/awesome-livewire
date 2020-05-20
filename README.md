@@ -64,6 +64,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) (VSCode Extension)
 * [Livewire Docs](https://marketplace.visualstudio.com/items?itemName=austenc.livewire-docs) (VSCode Extension)
+* [Alfred Livewire Docs](https://github.com/AlexMartinFR/alfred-livewire-docs) (Alfred Workflow)
 
 ## Other
 
