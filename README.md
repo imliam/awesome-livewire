@@ -54,11 +54,14 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Examples
 
-* [Nova Packages](https://github.com/tightenco/novapackages)
+* [Nova Packages](https://github.com/tightenco/novapackages) (full app)
+* [Dependant Select](https://github.com/asantibanez/livewire-dependant-select-demo)
 
-## Plugins
+## Packages / Plugins
 
 * [Livewire Sortable](https://github.com/livewire/sortable)
+* [Livewire Calendar](https://github.com/asantibanez/livewire-calendar)
+* [Livewire Resource Time Grid](https://github.com/asantibanez/livewire-resource-time-grid)
 
 ## Tooling
 
