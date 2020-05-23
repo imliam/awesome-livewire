@@ -4,6 +4,8 @@
 
 A curated list of [Livewire](https://github.com/livewire/livewire) resources.
 
+![composer require livewire/livewire](screenshot.png)
+
 <!-- TOC -->
 
 * [Official Resources](#official-resources)
