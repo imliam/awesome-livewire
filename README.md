@@ -71,6 +71,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Docs](https://marketplace.visualstudio.com/items?itemName=austenc.livewire-docs) (VSCode Extension)
 * [Alfred Livewire Docs](https://github.com/AlexMartinFR/alfred-livewire-docs) (Alfred Workflow)
 * [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) (supports Livewire)
+* [Pest Higher-Order Livewire Testing](https://pestphp.com/docs/plugins/livewire/)
 
 ## Other
 
