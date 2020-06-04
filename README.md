@@ -64,6 +64,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Sortable](https://github.com/livewire/sortable)
 * [Livewire Calendar](https://github.com/asantibanez/livewire-calendar)
 * [Livewire Resource Time Grid](https://github.com/asantibanez/livewire-resource-time-grid)
+* [Livewire Status Board](https://github.com/asantibanez/livewire-status-board)
 
 ## Tooling
 
