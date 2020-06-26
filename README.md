@@ -58,6 +58,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Nova Packages](https://github.com/tightenco/novapackages) (full app)
 * [Dependant Select](https://github.com/asantibanez/livewire-dependant-select-demo)
+* [To-do List](https://github.com/aleksandertabor/todo)
 
 ## Packages / Plugins
 
