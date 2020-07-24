@@ -69,6 +69,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Select](https://github.com/asantibanez/livewire-select)
 * [Livewire Dynamic Tables](https://github.com/rappasoft/laravel-livewire-tables)
 * [Livewire Portals](https://github.com/jeffochoa/livewire-portals)
+* [Livewire Smart Tables](https://github.com/tkaratug/livewire-smart-table)
 
 ## Tooling
 
