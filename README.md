@@ -67,9 +67,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Resource Time Grid](https://github.com/asantibanez/livewire-resource-time-grid)
 * [Livewire Status Board](https://github.com/asantibanez/livewire-status-board)
 * [Livewire Select](https://github.com/asantibanez/livewire-select)
-* [Livewire Dynamic Tables](https://github.com/rappasoft/laravel-livewire-tables)
+* [Livewire Dynamic Tables](https://github.com/rappasoft/laravel-livewire-tables) (Datatables)
 * [Livewire Portals](https://github.com/jeffochoa/livewire-portals)
-* [Livewire Smart Tables](https://github.com/tkaratug/livewire-smart-table)
+* [Livewire Smart Tables](https://github.com/tkaratug/livewire-smart-table) (Datatables)
+* [Statamic Livewire](https://github.com/jonassiewertsen/statamic-livewire) (Antlers templating compatibility)
 
 ## Tooling
 
