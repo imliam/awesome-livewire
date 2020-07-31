@@ -71,6 +71,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Portals](https://github.com/jeffochoa/livewire-portals)
 * [Livewire Smart Tables](https://github.com/tkaratug/livewire-smart-table) (Datatables)
 * [Statamic Livewire](https://github.com/jonassiewertsen/statamic-livewire) (Antlers templating compatibility)
+* [TALL Forms](https://github.com/tanthammar/tall-forms)
 
 ## Tooling
 
