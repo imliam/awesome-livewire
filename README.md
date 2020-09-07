@@ -74,6 +74,9 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [TALL Forms](https://github.com/tanthammar/tall-forms)
 * [Livewire Datatables](https://livewire-datatables.com/)
 
+## Snippets
+* [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
+
 ## Tooling
 
 * [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) (VSCode Extension)
