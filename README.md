@@ -62,6 +62,8 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Packages / Plugins
 
+* [Livewire VueJS Support](https://github.com/livewire/vue)
+* [Livewire Turbolinks Support](https://github.com/livewire/turbolinks) (for v2)
 * [Livewire Sortable](https://github.com/livewire/sortable)
 * [Livewire Calendar](https://github.com/asantibanez/livewire-calendar)
 * [Livewire Resource Time Grid](https://github.com/asantibanez/livewire-resource-time-grid)
