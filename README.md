@@ -34,6 +34,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Inertia.js and Livewire: a high level comparison](https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/) (Sebastian De Deyne)
 * [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear) (Freek Van der Herten)
 * [Building a realtime dashboard powered by Laravel, Livewire and Tailwind](https://freek.dev/1645-building-a-realtime-dashboard-powered-by-laravel-livewire-and-tailwind-2020-edition) (Freek Van der Herten)
+* [Create a Phone Dialer App in PHP with Laravel Livewire and Twilio Voice](https://www.twilio.com/blog/create-phone-dialer-app-php-laravel-livewire-twilio-voice)
 
 ## Podcasts
 
