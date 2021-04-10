@@ -8,14 +8,16 @@ A curated list of [Livewire](https://github.com/livewire/livewire) resources.
 
 <!-- TOC -->
 
-* [Official Resources](#official-resources)
-* [Articles](#articles)
-* [Podcasts](#podcasts)
-* [Videos & Screencasts](#videos--screencasts)
-* [Examples](#examples)
-* [Plugins](#plugins)
-* [Tooling](#tooling)
-* [Other](#other)
+- [Awesome Livewire ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-livewire-)
+  - [Official Resources](#official-resources)
+  - [Articles](#articles)
+  - [Podcasts](#podcasts)
+  - [Videos & Screencasts](#videos--screencasts)
+  - [Examples](#examples)
+  - [Packages / Plugins](#packages--plugins)
+  - [Snippets](#snippets)
+  - [Tooling](#tooling)
+  - [Other](#other)
 
 <!-- /TOC -->
 
@@ -77,6 +79,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [TALL Forms](https://github.com/tanthammar/tall-forms)
 * [Livewire Datatables](https://livewire-datatables.com/)
 * [Laravel Views](https://github.com/Gustavinho/laravel-views) (Datatables with Livewire)
+* [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) (Datatables)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
