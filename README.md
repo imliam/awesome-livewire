@@ -77,6 +77,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [TALL Forms](https://github.com/tanthammar/tall-forms)
 * [Livewire Datatables](https://livewire-datatables.com/)
 * [Laravel Views](https://github.com/Gustavinho/laravel-views) (Datatables with Livewire)
+* [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
