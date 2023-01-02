@@ -13,7 +13,8 @@ A curated list of [Livewire](https://github.com/livewire/livewire) resources.
 * [Podcasts](#podcasts)
 * [Videos & Screencasts](#videos--screencasts)
 * [Examples](#examples)
-* [Plugins](#plugins)
+* [Packages & Plugins](#packages--plugins)
+* [Snippets](#snippets)
 * [Tooling](#tooling)
 * [Other](#other)
 
