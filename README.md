@@ -79,6 +79,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [TALL Forms](https://github.com/tanthammar/tall-forms)
 * [Livewire Datatables](https://livewire-datatables.com/)
 * [Laravel Views](https://github.com/Gustavinho/laravel-views) (Datatables with Livewire)
+* [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
 * [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
 * [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
 
