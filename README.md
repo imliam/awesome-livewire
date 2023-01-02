@@ -13,7 +13,8 @@ A curated list of [Livewire](https://github.com/livewire/livewire) resources.
 * [Podcasts](#podcasts)
 * [Videos & Screencasts](#videos--screencasts)
 * [Examples](#examples)
-* [Plugins](#plugins)
+* [Packages & Plugins](#packages--plugins)
+* [Snippets](#snippets)
 * [Tooling](#tooling)
 * [Other](#other)
 
@@ -35,7 +36,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear) (Freek Van der Herten)
 * [Building a realtime dashboard powered by Laravel, Livewire and Tailwind](https://freek.dev/1645-building-a-realtime-dashboard-powered-by-laravel-livewire-and-tailwind-2020-edition) (Freek Van der Herten)
 * [Create a Phone Dialer App in PHP with Laravel Livewire and Twilio Voice](https://www.twilio.com/blog/create-phone-dialer-app-php-laravel-livewire-twilio-voice)
-
+* [Livewire CRUD Application for Beginner](https://khemputhea.com/2022/4/laravel-liveiwre-crud-application-for-beginner)
 ## Podcasts
 
 * [Official Livewire Podcast](https://laravel-livewire.com/podcast)
@@ -60,6 +61,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Nova Packages](https://github.com/tightenco/novapackages) (full app)
 * [Dependant Select](https://github.com/asantibanez/livewire-dependant-select-demo)
 * [To-do List](https://github.com/aleksandertabor/todo)
+* [Base Admin Panel](https://github.com/alighasemzadeh/bap)
 
 ## Packages / Plugins
 
@@ -78,13 +80,16 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Datatables](https://livewire-datatables.com/)
 * [Laravel Views](https://github.com/Gustavinho/laravel-views) (Datatables with Livewire)
 * [Livewire Megaphone](https://github.com/mikebarlow/megaphone) ("Bell Icon Notifications" powered by Laravel notifications system)
+* [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
+* [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
+* [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
 
 ## Tooling
 
-* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) (VSCode Extension)
+* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lennardv.livewire-goto-updated) (VSCode Extension)
 * [Livewire Docs](https://marketplace.visualstudio.com/items?itemName=austenc.livewire-docs) (VSCode Extension)
 * [Alfred Livewire Docs](https://github.com/AlexMartinFR/alfred-livewire-docs) (Alfred Workflow)
 * [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) (supports Livewire)
