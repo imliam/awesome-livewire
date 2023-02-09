@@ -31,6 +31,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Articles
 
+
+* [How to build modals with Laravel and Livewire](https://philo.dev/laravel-modals-with-livewire/) (Philo Hermans)
+* [Laravel Batches and real-time progress with Livewire](https://philo.dev/laravel-batches-and-real-time-progress-with-livewire/) (Philo Hermans)
+* [Getting started with Laravel Spotlight](https://philo.dev/getting-started-with-laravel-spotlight/) (Philo Hermans)
 * [Replacing web sockets with Livewire](https://freek.dev/1622-replacing-web-sockets-with-livewire) (Freek Van der Herten)
 * [Inertia.js and Livewire: a high level comparison](https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/) (Sebastian De Deyne)
 * [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear) (Freek Van der Herten)
@@ -83,6 +87,9 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
 * [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
 * [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
+* [Wire Elements Pro](https://wire-elements.dev/pro) (Paid)
+* [Wire Elements Modal](https://github.com/wire-elements/modal)
+* [Wire Elements Spotlight](https://github.com/wire-elements/spotlight)
 
 ## Snippets
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
