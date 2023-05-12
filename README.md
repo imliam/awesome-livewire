@@ -66,6 +66,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Dependant Select](https://github.com/asantibanez/livewire-dependant-select-demo)
 * [To-do List](https://github.com/aleksandertabor/todo)
 * [Base Admin Panel](https://github.com/alighasemzadeh/bap)
+* [Laravel-QuickStart](https://github.com/developervijay7/laravel-quickstart)
 
 ## Packages / Plugins
 
