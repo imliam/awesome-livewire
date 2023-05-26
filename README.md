@@ -43,7 +43,6 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Podcasts
 
-* [Official Livewire Podcast](https://laravel-livewire.com/podcast)
 * [Launching Livewire at Laracon](https://noplanstomerge.simplecast.com/episodes/launching-livewire-at-laracon) (No Plans to Merge)
 * [We Brainstorm Insanely Cool Livewire Things](https://noplanstomerge.simplecast.com/episodes/we-brainstorm-insanely-cool-livewire-things) (No Plans to Merge)
 
