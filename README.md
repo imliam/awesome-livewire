@@ -108,3 +108,4 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Livewire Discord Server](https://discord.gg/livewire)
 * [TALL Preset (TailwindCSS, AlpineJS, Laravel and Livewire)](https://github.com/laravel-frontend-presets/tall/)
+* [JetShip Laravel Saas Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
