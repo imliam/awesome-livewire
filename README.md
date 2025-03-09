@@ -37,9 +37,12 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Building a realtime dashboard powered by Laravel, Livewire and Tailwind](https://freek.dev/1645-building-a-realtime-dashboard-powered-by-laravel-livewire-and-tailwind-2020-edition) (Freek Van der Herten)
 * [Create a Phone Dialer App in PHP with Laravel Livewire and Twilio Voice](https://www.twilio.com/blog/create-phone-dialer-app-php-laravel-livewire-twilio-voice)
 * [Livewire CRUD Application for Beginner](https://khemputhea.com/2022/4/laravel-liveiwre-crud-application-for-beginner)
+* [How to build modals with Laravel and Livewire](https://philo.dev/laravel-modals-with-livewire/) (Philo Hermans)
+* [Laravel Batches and real-time progress with Livewire](https://philo.dev/laravel-batches-and-real-time-progress-with-livewire/) (Philo Hermans)
+* [Getting started with Laravel Spotlight](https://philo.dev/getting-started-with-laravel-spotlight/) (Philo Hermans)
+
 ## Podcasts
 
-* [Official Livewire Podcast](https://laravel-livewire.com/podcast)
 * [Launching Livewire at Laracon](https://noplanstomerge.simplecast.com/episodes/launching-livewire-at-laracon) (No Plans to Merge)
 * [We Brainstorm Insanely Cool Livewire Things](https://noplanstomerge.simplecast.com/episodes/we-brainstorm-insanely-cool-livewire-things) (No Plans to Merge)
 
@@ -62,6 +65,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Dependant Select](https://github.com/asantibanez/livewire-dependant-select-demo)
 * [To-do List](https://github.com/aleksandertabor/todo)
 * [Base Admin Panel](https://github.com/alighasemzadeh/bap)
+* [Laravel-QuickStart](https://github.com/developervijay7/laravel-quickstart)
 
 ## Packages / Plugins
 
@@ -75,16 +79,22 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Dynamic Tables](https://github.com/rappasoft/laravel-livewire-tables) (Datatables)
 * [Livewire Portals](https://github.com/jeffochoa/livewire-portals)
 * [Livewire Smart Tables](https://github.com/tkaratug/livewire-smart-table) (Datatables)
+* [MARY - Laravel blade components for Livewire 3](http://mary-ui.com)
 * [Statamic Livewire](https://github.com/jonassiewertsen/statamic-livewire) (Antlers templating compatibility)
 * [TALL Forms](https://github.com/tanthammar/tall-forms)
 * [Livewire Datatables](https://livewire-datatables.com/)
 * [Laravel Views](https://github.com/Gustavinho/laravel-views) (Datatables with Livewire)
 * [Livewire Megaphone](https://github.com/mikebarlow/megaphone) ("Bell Icon Notifications" powered by Laravel notifications system)
+* [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) (Datatables)
 * [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
 * [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
 * [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
+* [Wire Elements Pro](https://wire-elements.dev/pro) (Paid)
+* [Wire Elements Modal](https://github.com/wire-elements/modal)
+* [Wire Elements Spotlight](https://github.com/wire-elements/spotlight)
 
 ## Snippets
+
 * [Trigger update methods for nested values](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac) (Trait)
 
 ## Tooling
@@ -100,3 +110,4 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Livewire Discord Server](https://discord.gg/livewire)
 * [TALL Preset (TailwindCSS, AlpineJS, Laravel and Livewire)](https://github.com/laravel-frontend-presets/tall/)
+* [JetShip Laravel Saas Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
