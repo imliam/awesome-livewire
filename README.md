@@ -88,6 +88,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) (Datatables)
 * [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
 * [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
+* [Aura UI](https://aura-ui.com) (Blade components with "Vibrant Depth" design, Tailwind CSS 4, DataTable with server-side sorting/filtering, and 5 Livewire traits)
 * [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
 * [Wire Elements Pro](https://wire-elements.dev/pro) (Paid)
 * [Wire Elements Modal](https://github.com/wire-elements/modal)
