@@ -87,6 +87,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Livewire Megaphone](https://github.com/mikebarlow/megaphone) ("Bell Icon Notifications" powered by Laravel notifications system)
 * [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) (Datatables)
 * [TALL CRUD Generator](https://github.com/ascsoftw/tall-crud-generator)
+* [Tapix](https://tapix.dev) (A 4-step CSV import wizard with smart column mapping, inline validation, relationship linking, and queue-powered processing)
 * [WireUI](https://livewire-wireui.com/) (Components built with alpine.js and tailwind)
 * [Livewire Editor.js](https://github.com/maxeckel/livewire-editorjs)
 * [Wire Elements Pro](https://wire-elements.dev/pro) (Paid)
