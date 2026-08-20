@@ -92,6 +92,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Wire Elements Pro](https://wire-elements.dev/pro) (Paid)
 * [Wire Elements Modal](https://github.com/wire-elements/modal)
 * [Wire Elements Spotlight](https://github.com/wire-elements/spotlight)
+* [Laravel Livewire Multi-Step Form - Codegenie](https://github.com/Codegenie-BE/laravel-livewire-multistep-form)
 
 ## Snippets
 
