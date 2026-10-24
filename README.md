@@ -66,6 +66,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [To-do List](https://github.com/aleksandertabor/todo)
 * [Base Admin Panel](https://github.com/alighasemzadeh/bap)
 * [Laravel-QuickStart](https://github.com/developervijay7/laravel-quickstart)
+* [Multi Shelter Manager](https://github.com/zhoorta/multi-shelter-manager) (full app, multi-tenant, Flux UI)
 
 ## Packages / Plugins
 
